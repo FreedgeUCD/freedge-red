@@ -1,0 +1,12 @@
+{
+    "name": "freedge-red",
+    "description": "A test of using node-red for freedge",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flow.json",
+            "credentialsFile": "flow_cred.json"
+        }
+    }
+}
